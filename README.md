@@ -24,8 +24,7 @@ You are required to model the demand for shared bikes with the available indepen
 - [General Info](#general-information)
 - [Technologies Used](#technologies-used)
 - [Conclusions](#conclusions)
-- [Recommendations](#recommendations)
-- [Acknowledgements](#acknowledgements)
+
 
 <!-- You can include any other section that is pertinent to your problem -->
 
@@ -77,12 +76,5 @@ The primary objective is to identify the key variables that significantly influe
 - [Statsmodels](https://www.statsmodels.org/stable/index.html) - version 0.14.0
 - [Scikit-Learn](https://scikit-learn.org/stable/) - version 1.3.0
 
-## Acknowledgements
 
-- This project was inspired by live session of upGrad on Industry Relevance of Linear Regression Models by [Shivam Garg](https://www.linkedin.com/in/shivam-garg-0494a2ab/)
-- UpGrad tutorials on Linear Regression on the learning platform
-
-## Contact
-
-Created by [@akashkriplani](https://github.com/akashkriplani)
 
